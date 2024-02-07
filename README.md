@@ -1,0 +1,7 @@
+- first created a git in my local directory
+- added a txt file containing my expectation in the course
+- created a repository in github and pushed my git
+- added my partner as collaborator, and vice versa
+- I cloned her repository, then added a branch with my surname as the branch name
+- added some modifications on her txt file
+- created new pull request and merged our branches
